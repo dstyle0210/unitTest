@@ -1,3 +1,7 @@
+# intellij
+.idea
+unitTest.iml
+
 # Logs
 logs
 *.log
